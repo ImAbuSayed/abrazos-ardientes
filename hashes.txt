@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazos ardientes
+
+This log tracks the cryptographic history and versioning for the song **Abrazos ardientes** (abrazos-ardientes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:31:05.022340 | `v1` | `2dd4294494599160adeb28ec3b0ecc5ec8b42487827ca9fd4fa40786886a11e0` | `431129e82c200ef76a6c7c706b225cc647a9b5c1ca9e155e3cde4d78011db1b5` | `2026-06-16_abrazos-ardientes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
